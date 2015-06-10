@@ -1,4 +1,4 @@
-common
+decouple/common
 ======
 
-Common requirements for the Decouple framework.
+Common requirements and contracts for the Decouple Framework.
