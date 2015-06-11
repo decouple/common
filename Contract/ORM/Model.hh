@@ -16,7 +16,7 @@ interface Model extends Queryable {
    * @param  string $model        The model or table that the element belongs to
    * @param  string $key          The key field to compare
    * @param  string $id           The ID field compared against $key
-   * @return {[type]}        [description]
+   * @return Queryable
    */
   public function belongsTo(string $model, string $key, string $id) : Queryable;
   /**
