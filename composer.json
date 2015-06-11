@@ -1,6 +1,6 @@
 {
     "name": "decouple/common",
-    "description": "Common requirements for the Decouple framework.",
+    "description": "Common requirements and contracts for the Decouple Framework.",
     "license": "MIT",
     "authors": [
         {
